@@ -1,0 +1,129 @@
+line 10 column 4 - Warning: <meta> lacks "content" attribute
+line 26 column 4 - Warning: unknown attribute "itemprop"
+line 27 column 4 - Warning: unknown attribute "itemprop"
+line 28 column 4 - Warning: unknown attribute "itemprop"
+line 30 column 4 - Warning: unknown attribute "property"
+line 31 column 4 - Warning: unknown attribute "property"
+line 32 column 4 - Warning: unknown attribute "property"
+line 33 column 4 - Warning: unknown attribute "property"
+line 34 column 4 - Warning: unknown attribute "property"
+line 35 column 4 - Warning: unknown attribute "property"
+line 160 column 4 - Warning: <script> lacks "type" attribute
+line 161 column 4 - Warning: unknown attribute "async"
+line 161 column 4 - Warning: <script> lacks "type" attribute
+line 166 column 4 - Warning: <style> lacks "type" attribute
+line 178 column 4 - Warning: <script> lacks "type" attribute
+line 207 column 4 - Warning: <script> lacks "type" attribute
+line 225 column 4 - Warning: <script> lacks "type" attribute
+line 274 column 4 - Warning: <script> lacks "type" attribute
+line 293 column 4 - Warning: unknown attribute "data-role"
+line 299 column 83 - Warning: trimming empty <div>
+line 301 column 1 - Error: <header> is not recognized!
+line 301 column 1 - Warning: discarding unexpected <header>
+line 311 column 49 - Warning: trimming empty <i>
+line 312 column 25 - Warning: trimming empty <h4>
+line 319 column 112 - Warning: trimming empty <i>
+line 320 column 105 - Warning: trimming empty <i>
+line 321 column 115 - Warning: trimming empty <i>
+line 333 column 86 - Warning: trimming empty <i>
+line 338 column 9 - Warning: trimming empty <div>
+line 344 column 10 - Warning: missing </a> before <div>
+line 345 column 13 - Warning: img lacks "alt" attribute
+line 349 column 1 - Warning: discarding unexpected </a>
+line 353 column 10 - Warning: missing </a> before <div>
+line 358 column 1 - Warning: discarding unexpected </a>
+line 365 column 9 - Warning: unknown attribute "itemtype"
+line 365 column 9 - Warning: unknown attribute "itemscope"
+line 366 column 13 - Error: <nav> is not recognized!
+line 366 column 13 - Warning: discarding unexpected <nav>
+line 373 column 122 - Warning: trimming empty <i>
+line 374 column 115 - Warning: trimming empty <i>
+line 375 column 125 - Warning: trimming empty <i>
+line 379 column 100 - Warning: trimming empty <i>
+line 389 column 29 - Warning: unknown attribute "spellcheck"
+line 389 column 29 - Warning: unknown attribute "autocomplete"
+line 389 column 29 - Warning: unknown attribute "placeholder"
+line 390 column 45 - Warning: trimming empty <div>
+line 391 column 81 - Warning: trimming empty <i>
+line 391 column 85 - Warning: trimming empty <button>
+line 399 column 9 - Warning: discarding unexpected </nav>
+line 404 column -3 - Warning: discarding unexpected </header>
+line 416 column 1 - Error: <main> is not recognized!
+line 416 column 1 - Warning: discarding unexpected <main>
+line 439 column 9 - Error: <article> is not recognized!
+line 439 column 9 - Warning: discarding unexpected <article>
+line 467 column 45 - Warning: unknown attribute "data-desktop"
+line 479 column 91 - Warning: trimming empty <i>
+line 480 column 34 - Warning: unknown attribute "allow"
+line 480 column 34 - Warning: unknown attribute "allowfullscreen"
+line 480 column 34 - Warning: unknown attribute "allowtransparency"
+line 480 column 34 - Warning: <iframe> dropping value "no" for repeated attribute "frameborder"
+line 495 column 21 - Warning: <script> lacks "type" attribute
+line 512 column 20 - Error: <article> is not recognized!
+line 512 column 20 - Warning: discarding unexpected <article>
+line 516 column 29 - Warning: unknown attribute "data-title"
+line 516 column 29 - Warning: unknown attribute "data-url"
+line 518 column 168 - Warning: trimming empty <div>
+line 519 column 22 - Warning: trimming empty <div>
+line 523 column 67 - Warning: trimming empty <div>
+line 529 column 35 - Warning: unknown attribute "text-id"
+line 529 column 135 - Warning: trimming empty <i>
+line 530 column 126 - Warning: trimming empty <i>
+line 531 column 36 - Warning: unknown attribute "text-id"
+line 531 column 158 - Warning: trimming empty <i>
+line 532 column 126 - Warning: trimming empty <span>
+line 533 column 36 - Error: <video> is not recognized!
+line 533 column 36 - Warning: discarding unexpected <video>
+line 533 column 83 - Warning: discarding unexpected </video>
+line 535 column 86 - Warning: trimming empty <i>
+line 540 column 29 - Warning: <img> lacks "alt" attribute
+line 540 column 700 - Warning: trimming empty <p>
+line 540 column 3,728 - Warning: <script> lacks "type" attribute
+line 540 column 5,458 - Warning: <script> lacks "type" attribute
+line 540 column 6,654 - Warning: <script> lacks "type" attribute
+line 540 column 8,797 - Warning: trimming empty <p>
+line 540 column 9,007 - Warning: unknown attribute "data-href"
+line 540 column 9,235 - Warning: unknown attribute "data-image"
+line 540 column 9,526 - Warning: trimming empty <div>
+line 540 column 9,594 - Warning: trimming empty <div>
+line 540 column 9,600 - Warning: trimming empty <div>
+line 540 column 10,376 - Warning: unknown attribute "data-href"
+line 540 column 10,653 - Warning: unknown attribute "data-image"
+line 540 column 10,946 - Warning: trimming empty <div>
+line 540 column 11,014 - Warning: trimming empty <div>
+line 540 column 11,020 - Warning: trimming empty <div>
+line 541 column 67 - Warning: trimming empty <div>
+line 548 column 29 - Warning: <img> lacks "alt" attribute
+line 548 column 700 - Warning: trimming empty <p>
+line 548 column 3,674 - Warning: trimming empty <div>
+line 548 column 5,135 - Warning: trimming empty <div>
+line 548 column 6,062 - Warning: trimming empty <div>
+line 548 column 7,990 - Warning: trimming empty <p>
+line 548 column 8,200 - Warning: unknown attribute "data-href"
+line 548 column 8,428 - Warning: unknown attribute "data-image"
+line 548 column 8,719 - Warning: trimming empty <div>
+line 548 column 8,787 - Warning: trimming empty <div>
+line 548 column 8,793 - Warning: trimming empty <div>
+line 548 column 9,569 - Warning: unknown attribute "data-href"
+line 548 column 9,846 - Warning: unknown attribute "data-image"
+line 548 column 10,139 - Warning: trimming empty <div>
+line 548 column 10,207 - Warning: trimming empty <div>
+line 548 column 10,213 - Warning: trimming empty <div>
+line 578 column 29 - Warning: unknown attribute "data-width"
+line 578 column 29 - Warning: unknown attribute "data-numposts"
+line 578 column 29 - Warning: unknown attribute "data-href"
+line 578 column 224 - Warning: trimming empty <div>
+line 582 column 16 - Warning: discarding unexpected </article>
+InputStream: Doctype given is ""
+InputStream: Document content looks like HTML 4.01 Transitional
+161 warnings, 8 errors were found!
+This document has errors that must be fixed before
+using HTML Tidy to generate a tidied up version.
+The alt attribute should be used to give a short description
+of an image; longer descriptions should be given with the
+longdesc attribute which takes a URL linked to the description.
+These measures are needed for people using non-graphical browsers.
+For further advice on how to make your pages accessible
+see "http://www.w3.org/WAI/GL". You may also want to try
+"http://www.cast.org/bobby/" which is a free Web-based
+service for checking URLs for accessibility.
